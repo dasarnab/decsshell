@@ -1,0 +1,4 @@
+sortFile input1.txt > sort_output1.txt
+listFiles
+sortFile sort_output1.txt
+ls
